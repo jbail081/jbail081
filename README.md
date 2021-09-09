@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jbail081
-- 👀 I’m interested in sports
+- 👀 I’m interested in sports and outdoor activities
 - 🌱 I’m currently learning software engineering at the university of Ottawa
 - 📫 I can be reached at jbail081@uottawa.ca
 
